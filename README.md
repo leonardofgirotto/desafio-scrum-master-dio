@@ -1,5 +1,4 @@
-# desafio-scrum-master-dio
-Case de Estudo: Transformação Digital na ING – Banco Digital
+# Case de Estudo: Transformação Digital na ING – Banco Digital
 
 O ING, um dos maiores bancos da Europa, iniciou uma transformação digital em 2015, buscando evoluir de uma instituição tradicional para um banco digital global. O objetivo era criar uma experiência de banco digital para seus clientes, proporcionando uma interface simples e moderna com foco em serviços financeiros online. Antes da transformação, o ING seguia uma abordagem de desenvolvimento tradicional, que resultava em longos ciclos de lançamento de novos produtos. Isso impedia a inovação ágil e a rápida resposta às mudanças do mercado. A necessidade de uma abordagem mais flexível e adaptável impulsionou a mudança para o Scrum.
 
